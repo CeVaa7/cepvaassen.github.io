@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Charlotte Vaassen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Charlotte Elisabeth Vaassen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a PhD Researcher at Vrije Universiteit Amsterdam, the Netherlands."
   location         : "The Netherlands"
   employer         : "Vrije Universiteit Amsterdam"
   uri              : # URL
